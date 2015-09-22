@@ -6,7 +6,7 @@ The EPSRC SIPHS project (grant no. EP/M005089/1) is about helping health experts
 
 At the technological level SIPHS seeks to pioneer new methods for NLP and machine learning (ML). Social media remains a challenging area for NLP for a variety of reasons: short de-contextualised messages, high levels of ambiguity/out of vocabulary words, use of slang and an evolving vocabulary, as well as inherent bias towards sensational topics. The fellowship seeks to harness the progress made so far in NLP for social media analysis in the commercial domain and develop it further to provide meaningful public health evidence. One key aspect not previously addressed is in the clinical coding of patient messages. Although knowledge brokering systems exist for clinical and scientific texts (e.g. MetaMap), their performance on social media messages has been poor. SIPHS aims to utilise the rich availability of ontological resources in biomedicine together with ML on annotated message data to disambiguate informal language. Research will also aim to understanding the communicative function of messages, for example whether the message reports direct experience or is related to news, humour or marketing. If these problems are successfully overcome an important barrier to data integration with other types of clinical data will be removed.
 
-SIPHS is being led by Dr. Nigel Collier, Co-Director of the Language Technology Lab at the Department of Theoretical and Applied Linguistics, University of Cambridge. 
+SIPHS is being led by Dr. Nigel Collier, Principal Research Associate and Co-Director of the Language Technology Lab at the Department of Theoretical and Applied Linguistics, University of Cambridge. 
 
 ##Publications:
 
