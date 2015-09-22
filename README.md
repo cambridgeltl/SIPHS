@@ -11,6 +11,7 @@ SIPHS is being led by Dr. Nigel Collier, Co-Director of the Language Technology 
 ##Publications:
 
 [1] Limsopatham, N. and Collier, N. (2015), “Adapting phrase-based machine translation to normalise medical terms in social media messages”, in Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, Lisbon, Portugal, 17-21 September 2015, pp. 1675-1680. Available at https://www.repository.cam.ac.uk/handle/1810/249295
+
 [2] Limsopatham, N. and Collier, N. (2015), “Towards the semantic interpretation of personal health messages from social media”, in Proceedings of the 24th ACM International Conference on Information and Knowledge Management (CIKM 2015), Workshop on Understanding the City with Urban Informatics (UCUI 2015), Melbourne, Australia, 19-23 October 2015. Available at https://www.repository.cam.ac.uk/handle/1810/249275 
 
 Reference 2 above is the canonical reference for the SIPHS project.
@@ -18,7 +19,10 @@ Reference 2 above is the canonical reference for the SIPHS project.
 ##Related information:
 
 [1] EPSRC SIPHS project grant details: http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/M005089/1
+
 [2] Nigel Collier's Web site: https://sites.google.com/site/nhcollier/
+
 [3] Nut Limsopatham's Web site: http://www.mml.cam.ac.uk/nl347 
+
 [4] The Language Technology Lab Web site: http://ltl.mml.cam.ac.uk/
 
